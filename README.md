@@ -1,6 +1,6 @@
 # Composedb docker image
 
-Download the image
+## Download the image
 
 ```
 docker pull whatscookin/whatscookin-composedb
