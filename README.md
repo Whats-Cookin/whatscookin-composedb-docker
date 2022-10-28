@@ -14,6 +14,6 @@ This image expect a environment variable - `ADMIN_DIDS`. List all the admin dids
 ADMIN_DIDS=did:key:y6JxyQ5lkNpTczpBKykv1jtJcxaFmyt2Ssd6wmT4K3xjcmAD,did:key:a9NlqV1itPbTczpBKykv1jtJcxaFmyt2Ssd3cnU1B7wocmQM
 ```
 
-## Docker Repository:
+## Docker Repository
 
 https://hub.docker.com/r/whatscookin/whatscookin-composedb
